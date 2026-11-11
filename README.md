@@ -14,6 +14,8 @@
 | | 대회 | 프로젝트 · 역할 |
 |---|---|---|
 | 🥇 최우수상 | 2026 제3회 호남권 SW 창업 아이디어 경진대회 | [보듬길](https://github.com/gksrhdms/Bodeumgil) · 총괄 디자인, 프로토타입 배포 |
+| 🥈 2등 | UCSD 퀄컴연구소(QI) AI 연구 연수 최종 발표 | 맨해튼 호출형 차량 수요 예측 · 데이터 전처리, 모델링, 영어 발표 |
+| 🏅 장려상 | KCC 2026 한국컴퓨터종합학술대회 학부생/주니어 부문 | 같은 연구로 [논문](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929840) 제출, 포스터 발표 |
 | 🏅 장려상 | 2026 SW멤버십 추계 캠프 랄프루프톤 | [조대나비](https://github.com/gksrhdms/Choanavi) · UI/UX 디자인 |
 
 <br>
